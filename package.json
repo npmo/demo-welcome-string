@@ -1,0 +1,24 @@
+{
+  "name": "@demo/welcome-string",
+  "version": "0.1.0",
+  "description": "Simple module to build a Welcome string",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/npmo/demo-welcome-string.git"
+  },
+  "keywords": [
+    "demo",
+    "welcome",
+    "string"
+  ],
+  "author": "npmo-andrew <andrew+ghdemo@npmjs.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/npmo/demo-welcome-string/issues"
+  },
+  "homepage": "https://github.com/npmo/demo-welcome-string#readme"
+}
